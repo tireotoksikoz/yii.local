@@ -14,5 +14,5 @@ $this->params['breadcrumbs'][] = $this->title;
         This is the About page.
     </p>
 
-    <code><?= __FILE__ ?></code>
+
 </div>
