@@ -114,6 +114,10 @@ class SiteController extends Controller
 
     }
 
+    /**
+     * @return string|Response
+     */
+
     public function actionSignup()
     {
         $model = new SignupForm();
