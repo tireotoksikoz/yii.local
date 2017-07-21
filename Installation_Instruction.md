@@ -37,6 +37,7 @@ exit;
 </VirtualHost>
 
 сохраняем->закрываем
+
 17. $ sudo a2ensite test-site.conf
 18. $ service apache2 reload
 19. проект будет доступен в браузере по адресу "projectName"
