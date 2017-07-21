@@ -11,7 +11,6 @@ $ composer global require "fxp/composer-asset-plugin:^1.3.1"
 8. открываем соединение с БД:
 $ mysql -p
 9. создаем БД, где "DB name" - желаемое имя БД - 
-
 create database "DB name";
 10. Закрываем соединение:
 exit;
